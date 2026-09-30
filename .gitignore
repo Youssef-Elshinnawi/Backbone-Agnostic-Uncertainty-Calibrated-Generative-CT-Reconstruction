@@ -1,0 +1,59 @@
+# Prior-project clones (these live in their own GitHub repos; see README)
+prior_projects/
+
+# Data — never committed (TCIA/Mayo terms; size). Lives on Google Drive.
+data/
+*.dcm
+*.IMA
+*.h5
+*.hdf5
+*.nii
+*.nii.gz
+*.mat
+*.raw
+*.bin
+
+# Model checkpoints and large arrays
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.engine
+*.npy
+*.npz
+
+# Large run outputs (small metric files go in results/ and ARE committed)
+outputs/
+runs/
+wandb/
+lightning_logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Build artefacts (C++/CUDA)
+build/
+*.o
+*.so
+*.exe
+*.ncu-rep
+*.nsys-rep
+
+# Editors / OS / tools
+.DS_Store
+.vscode/
+.idea/
+.claude/
