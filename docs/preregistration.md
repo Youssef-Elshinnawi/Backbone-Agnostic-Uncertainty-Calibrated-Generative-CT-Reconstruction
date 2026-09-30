@@ -1,7 +1,7 @@
 # Pre-registration — hypotheses and evaluation protocol
 
 Author: Youssef Elshinnawi
-Status: **Complete draft, pending freeze.** It will be frozen by the git tag `prereg-v1`. After freezing, every change goes in §9 (Deviations) with the date and reason; the original text is never edited silently.
+Status: **Frozen at git tag `prereg-v1` (2026-09-30).** Every later change goes in §9 (Deviations) with the date and reason; the original text is never edited silently.
 
 ---
 
@@ -110,4 +110,4 @@ Patient-level splits only; slices from one patient never cross splits.
 
 ## 9. Deviations log
 
-*(empty until `prereg-v1` is tagged)*
+*(none yet)*

@@ -4,7 +4,7 @@
 
 Author: Youssef Elshinnawi, Universität Leipzig (International Physics Studies Program)
 
-> **Status:** Phase 0 complete (literature review, prior-code audit, pre-registration draft). Phase 1 (differentiable projector) not started. **No results yet.** Any number that appears in this repository links to the script and commit that produced it.
+> **Status:** Phase 0 complete (literature review, prior-code audit, pre-registration frozen at tag `prereg-v1`). Phase 1 (differentiable projector) not started. **No results yet.** Any number that appears in this repository links to the script and commit that produced it.
 
 ## Question
 
